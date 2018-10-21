@@ -14,3 +14,5 @@ In the following files there will be a short explaining about our idea to make s
 This part is about a local signal to implement in mars to improve the time it takes to the e3xplorer to be aware of something
 happening in the planet, like a storm incomming.
 
+# InfoDetails
+Has all the info about the changes to the rover and the incorporation of the cones.
