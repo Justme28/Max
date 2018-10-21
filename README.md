@@ -1,5 +1,5 @@
 # Max
-Personal Navigation Asistant (Mars, SPACE APPS CHALLENGE)
+The Personal Navigation Asistant (Mars, SPACE APPS CHALLENGE)
 The challenge we are rioght now is from the section "Can You Build A" called "Make sense out of Mars".
 
 
